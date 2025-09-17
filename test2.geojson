@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "feqaefa",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.610273690186082, 52.761991389628669 ], [ 9.610273690186082, 53.761991389628669 ], [ 10.610273690186082, 53.761991389628669 ], [ 10.610273690186082, 52.761991389628669 ], [ 9.610273690186082, 52.761991389628669 ] ] ] } }
-]
-}
